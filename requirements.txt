@@ -2,3 +2,5 @@ streamlit
 pandas
 plotly
 bcrypt
+xai-sdk
+openai
